@@ -1,0 +1,63 @@
+---
+title: "About"
+format: html
+---
+
+<style>
+  body {
+    background-color: #FFFFFF; /* Soft white background */
+    color: #333333; /* Charcoal gray text */
+    font-family: Roboto, sans-serif;
+    line-height: 1.6;
+  }
+  /* Navbar styling */
+  .navbar {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar a {
+    color: #008080; /* Teal links */
+    margin: 0 10px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .navbar a:hover {
+    color: #FF6F61; /* Bright coral on hover */
+  }
+  /* Centered welcome box */
+  .intro-box {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #F7F7F7; /* Light gray background */
+    border-radius: 10px;
+    text-align: center;
+  }
+  /* Section headers */
+  .section-header {
+    color: #007BFF; /* Vibrant blue headers */
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+</style>
+
+<div class="navbar">
+  [Home](index.html) | [About](about.html) | [Resume/CV](cv.html) | [Research](research.html) | [Teaching](teaching.html)
+</div>
+
+<div>
+  <div class="section-header">Bio</div>
+  I am a PhD Candidate at Georgetown University, specializing in American Government and Quantitative Methodology with a focus on political economy, public administration, and data science.
+  
+  <div class="section-header">Current Positions</div>
+  I am a Research Assistant in the Department of Government and a Quantitative Researcher at the Massive Data Institute in the McCourt School of Public Policy. Previously, I served as a Teaching Assistant in statistics, causal inference, and R and Stata programming.
+
+  <div class="section-header">Research Focus</div>
+  My dissertation examines how labor unions have historically captured and wielded political power in the United States. My other research covers civil service reform, political business cycles, ideology and elections, and data transparency related to federal bureaucrats. Some of this work is under review at outlets such as *American Journal of Political Science* and *Nature’s Scientific Data*.
+
+  <div class="section-header">Professional Experience</div>
+  Before graduate school, I was the Chief of Staff for a Maryland state legislator, focusing on government oversight, healthcare policy, and auditing the state executive branch. This role deepened my understanding of policy-making and political compromise, inspiring my pursuit of a PhD in American government.
+
+  <div class="section-header">Personal Interests</div>
+  Outside of my professional pursuits, I enjoy combat sports and reading political biographies and American political philosophy.
+</div>

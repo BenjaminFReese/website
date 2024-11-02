@@ -1,0 +1,66 @@
+---
+title: "Home"
+format: html
+---
+
+<style>
+body {
+  background-color: #FFFFFF; /* Soft white */
+  color: #333333; /* Charcoal gray */
+  font-family: Roboto, sans-serif;
+  line-height: 1.6;
+}
+
+.navbar a {
+  color: #008080; /* Teal */
+  margin: 0 10px;
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #FF6F61; /* Bright coral */
+}
+
+
+.intro-box {
+  background-color: #F7F7F7; /* Light gray */
+}
+
+.resume-container img {
+  border: 2px solid #007BFF; /* Vibrant blue border */
+}
+
+/* Centered image styling */
+.home-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 80%;
+  border-radius: 8px;
+}
+
+/* Link styling for bottom link */
+.footer-link {
+  color: #008080; /* Match navbar link color */
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #FF6F61; /* Bright coral on hover */
+}
+</style>
+
+
+<div class="navbar">
+  [Home](index.html) | [About](about.html) | [Resume/CV](cv.html) | [Research](research.html) | [Teaching](teaching.html)
+</div>
+<div style="text-align: center; font-size: 0.9em; margin-top: 13px;">
+  My name is Benjamin Reese. I am a PhD Candidate in American Government and Quantitative Methods in the Department of Government at Georgetown University with interests in political economy, public administration, and public opinion. Feel free to explore my work!
+
+<div style="text-align: center; font-size: 0.9em; margin-top: 10px;">
+<img src="home.jpg" alt="Homepage Image" class="home-image"/>
+
+This website was made in R based on a tutorial put together by <a class="footer-link" href="https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily C. Zabor and hosted on GitHub Pages</a>.
+</div>
+

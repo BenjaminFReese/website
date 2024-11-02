@@ -1,0 +1,77 @@
+---
+title: "Teaching"
+format: html
+---
+
+<style>
+  body {
+    background-color: #FFFFFF; /* Soft white background */
+    color: #333333; /* Charcoal gray text */
+    font-family: Roboto, sans-serif;
+    line-height: 1.6;
+  }
+  /* Navbar styling */
+  .navbar {
+    text-align: center;
+    padding: 10px 0;
+  }
+  .navbar a {
+    color: #008080; /* Teal links */
+    margin: 0 10px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .navbar a:hover {
+    color: #FF6F61; /* Bright coral on hover */
+  }
+  /* Centered welcome box */
+  .intro-box {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #F7F7F7; /* Light gray background */
+    border-radius: 10px;
+    text-align: center;
+  }
+  /* Section headers */
+  .section-header {
+    color: #007BFF; /* Vibrant blue headers */
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  /* Link styling for course items */
+  a {
+    color: #008080; /* Match navbar link color */
+    text-decoration: none;
+  }
+  a:hover {
+    color: #FF6F61; /* Bright coral on hover */
+  }
+</style>
+
+<div class="navbar">
+  [Home](index.html) | [About](about.html) | [Resume/CV](cv.html) | [Research](research.html) | [Teaching](teaching.html)
+</div>
+
+I have served as the teaching assistant for four graduate-level political science quantitative methods courses: introductory statistics for Georgetown's American Government MA, introductory statistics for the PhD in Government, and twice for the PhD program's advanced statistics course. In addition to drafting and grading problem sets and exams, I taught lab sections focusing on applied programming in R and, to a lesser extent, Stata. I am prepared to fully teach these courses, as well as cognate courses in introductory data science and survey methodology that my PhD coursework covered extensively. Links to the websites I made to share code and answers to the lab section assignments are below:
+
+<div>
+  <div class="section-header">Previous Courses</div>
+  <ul>
+    <li><a href="https://benjaminfreese.github.io/GOVT8001/">PhD Quant I Fall 2023</a></li>
+    <li><a href="https://benjaminfreese.github.io/quant2/">PhD Quant II Spring 2023</a></li>
+    <li><a href="https://benjaminfreese.github.io/GOVT-8002-Spring-2024/">PhD Quant II Spring 2024</a></li>
+  </ul>
+</div>
+
+In addition to teaching courses in statistics, programming, and data science, I have a draft-in-progress syllabus for a course titled "Business & Politics" that I hope to teach soon. The course introduces undergraduates and beginning graduate students in political science to prominent research, theory, and commentary on American political economy through a combination of lecture, organized debate, discussion, and quantitative data analysis.
+
+<div>
+  <div class="section-header">Other Courses</div>
+  <ul>
+    <li><a href="BusinessPolitics.pdf">Business & Politics</a></li>
+    <li><a href="American Political Thought.pdf">American Political Thought</a></li>
+  </ul>
+</div>
+
+Finally, I am well prepared to teach traditional courses in introductory American politics, Congress, the Executive Branch, campaigns & elections, and state and local politics. In my undergraduate program, I served as a teaching assistant and language tutor for courses in Latin, but most of my Latin language skills have since left me!
