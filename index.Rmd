@@ -59,6 +59,6 @@ body {
 <div style="text-align: center; font-size: 0.9em; margin-top: 10px;">
 <img src="home.jpg" alt="Homepage Image" class="home-image"/>
 
-This website was made in R based on a tutorial put together by <a class="footer-link" href="https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily C. Zabor </a> and hosted on GitHub Pages.
+This website was made in R by expanding on materials from <a class="footer-link" href="https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily C. Zabor </a> and hosted on GitHub Pages.
 </div>
 
