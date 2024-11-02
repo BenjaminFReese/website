@@ -3,7 +3,7 @@
     "path": "~/Site/teaching.qmd",
     "project_path": "teaching.qmd",
     "type": "quarto_markdown",
-    "hash": "2579971527",
+    "hash": "2574798288",
     "contents": "",
     "dirty": false,
     "created": 1730570898716.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "9,36",
-        "scrollLine": "3"
+        "cursorPosition": "69,36",
+        "scrollLine": "64"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730579810,
+    "lastKnownWriteTime": 1730583313,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730579810413,
+    "last_content_update": 1730583313223,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -3,7 +3,7 @@
     "path": "~/Site/cv.Rmd",
     "project_path": "cv.Rmd",
     "type": "r_markdown",
-    "hash": "2348548953",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1730571656755.0,
@@ -13,8 +13,8 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "43,56",
-        "scrollLine": "37"
+        "cursorPosition": "38,0",
+        "scrollLine": "34"
     },
     "folds": "",
     "lastKnownWriteTime": 1730580948,
