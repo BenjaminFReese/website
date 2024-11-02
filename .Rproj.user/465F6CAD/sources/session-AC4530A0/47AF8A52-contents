@@ -62,8 +62,10 @@ format: html
   <div class="project-item">"American Constitutional Praxis: The Modest Origins of the U.S. Constitution"</div>
 
   <div class="section-header">Working Papers</div>
-  <div class="project-item"> <a href="paper.pdf">"Estimating Unknown Cut-points in Regression Discontinuity and Kink Designs"</a></div>
   <div class="project-item"> <a href="pbc_paper.pdf">"Are There Political Business Cycles in the United States"</a></div>
+  <div class="project-item"> <a href="paper.pdf">"Reese, Benjamin F. 2024. “Estimating Unknown Cut-points in Regression Discontinuity and Kink 
+Designs.” SocArXiv, 9 Oct.
+"</a></div>
   <div class="project-item">"The American Federal Workforce, 1973-2023"</div>
 
   <div class="section-header">In Progress</div>
