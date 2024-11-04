@@ -59,7 +59,6 @@ format: html
   <div class="section-header">Under Review</div>
   <div class="project-item">"Bottom-up Patronage: Sub-national Civil Service Reform & National Elections"</div>
   <div class="project-item">"Ideological Moderation & Success in Elections, 2020-2022"</div>
-  <div class="project-item">"American Constitutional Praxis: The Modest Origins of the U.S. Constitution"</div>
 
   <div class="section-header">Working Papers</div>
   <div class="project-item"> <a href="pbc_paper.pdf">"Are There Political Business Cycles in the United States"</a></div>
