@@ -58,17 +58,17 @@ format: html
 
   <div class="section-header">Under Review</div>
   <div class="project-item">"Bottom-up Patronage: Sub-national Civil Service Reform & National Elections"</div>
-  <div class="project-item">"Ideological Moderation & Success in Elections, 2020-2022"</div>
+  <div class="project-item">"Ideological Moderation & Success in Elections, 2020-2022"(with Michael Bailey)</div>
 
   <div class="section-header">Working Papers</div>
   <div class="project-item"> <a href="pbc_paper.pdf">"Are There Political Business Cycles in the United States"</a></div>
   <div class="project-item"> <a href="paper.pdf">"Reese, Benjamin F. 2024. “Estimating Unknown Cut-points in Regression Discontinuity and Kink 
 Designs.” SocArXiv, 9 Oct.
 "</a></div>
-  <div class="project-item">"The American Federal Workforce, 1973-2023"</div>
+  <div class="project-item">"The American Federal Workforce, 1973-2023" (with Mark Richardson)</div>
 
   <div class="section-header">In Progress</div>
   <div class="project-item">"Workplace Ideology & Union Election Success"</div>
-  <div class="project-item">"The Stock Market & the Political Betting Market"</div>
-  <div class="project-item">"Most Politics is Local"</div>
+  <div class="project-item">"The Stock Market & the Political Betting Market" (with Michael Bailey)</div>
+  <div class="project-item">"Most Politics is Local" (with Michael Bailey)</div>
 </div>
