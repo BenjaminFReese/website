@@ -38,7 +38,7 @@ body {
 <div style="text-align: center; font-size: 0.9em; margin-top: 13px;">
 <div class="intro-box">
 
-  You can find my full Resume and CV by clicking the images below. I am primarily interested in careers in public service and/or policy research and government oversight, but I maintain a full academic CV to report the research projects I have completed and hope to pursue.
+  You can find my full Resume and CV by clicking the images below. I am primarily interested in careers in policy research and program evaluation, but I maintain a full academic CV to report the research projects I have completed and hope to pursue.
 </div>
 
 <div style="display: flex; justify-content: space-around">
