@@ -2,55 +2,54 @@
 title: "About"
 format: html
 ---
-
 <style>
-  body {
-    background-color: #FFFFFF; /* Soft white background */
-    color: #333333; /* Charcoal gray text */
-    font-family: Roboto, sans-serif;
-    line-height: 1.6;
-  }
+body {
+  background-color: #FFFFFF; /* Soft white */
+  color: #333333; /* Charcoal gray */
+  font-family: Roboto, sans-serif;
+  line-height: 1.6;
+}
 
-  /* Navbar styling */
-  .navbar {
-    text-align: center;
-    padding: 10px 0;
-  }
-  .navbar a {
-    color: #008080; /* Teal links */
-    margin: 0 10px;
-    font-weight: bold;
-    text-decoration: none;
-  }
-  .navbar a:hover {
-    color: #FF6F61; /* Bright coral on hover */
-  }
-  /* Link styling for main text */
-  a {
-    color: #008080; /* Teal links */
-    text-decoration: none;
-  }
-  a:hover {
-    color: #FF6F61; /* Bright coral on hover */
-  }
+.navbar a {
+  color: #008080; /* Teal */
+  margin: 0 10px;
+  font-weight: bold;
+  font-family: Roboto, sans-serif;
+  text-decoration: none;
+}
 
-  /* Centered welcome box */
-  .intro-box {
-    max-width: 700px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #F7F7F7; /* Light gray background */
-    border-radius: 10px;
-    text-align: center;
-  }
+.navbar a:hover {
+  color: #FF6F61; /* Bright coral */
+}
 
-  /* Section headers */
-  .section-header {
-    color: #007BFF; /* Vibrant blue headers */
-    font-size: 1.2em;
-    margin-top: 20px;
-  }
+
+.intro-box {
+  background-color: #F7F7F7; /* Light gray */
+}
+
+/* Centered image styling */
+.home-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 80%;
+  border-radius: 8px;
+}
+
+/* Link styling for bottom link */
+.footer-link {
+  color: #008080; /* Match navbar link color */
+  text-decoration: none;
+}
+
+.navbar {
+  background-color: #FFFFFF; /* White background */
+}
+
+.footer-link:hover {
+  color: #FF6F61; /* Bright coral on hover */
+}
 </style>
+
 
 <div class="navbar">
   [Home](index.html) | [About](about.html) | [Resume/CV](cv.html) | [Research](research.html) | [Teaching](teaching.html)
